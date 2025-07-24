@@ -26,20 +26,21 @@ This repository covers:
 · Access to Azure Portal
 ```
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 - Microsoft Azure
 - Azure Active Directory
 - Privileged Identity Management
 - PowerShell (AzureAD / Az modules)
 - Azure Portal UI
 
-  
+<!-- 
  ## 🧠 Learnings
 - This project helps build hands-on knowledge of:
 - Role-based access control (RBAC)
 - Conditional access policies
 - Secure privilege escalation via JIT
 - Audit and governance through PIM reports
+-->
 
 ## 🎓 Internship Context
 ``` bash
