@@ -42,8 +42,3 @@ This repository covers:
 - Audit and governance through PIM reports
 -->
 
-## 🎓 Internship Context
-``` bash
-This project was developed as part of an internship at Celebal Technologies, focusing on enterprise-level identity governance and access management using Microsoft Azure. 
-```
-[Puneet's_Offer_letter.pdf](https://github.com/user-attachments/files/21223429/Puneet.s_Offer_letter.pdf)
